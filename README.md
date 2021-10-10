@@ -1,4 +1,4 @@
-# MediaPlayer is a C # project created in Visual Studio 2017(2010) and is software that plays music files in folders.
+# MediaPlayer is a C # project created in Visual Studio 2017(2010) and is software that plays music files(m4a,wav) in folders.
 ![Class](img/App.png)
 
 ## Releases-> TAG01-> Assets-> PlayMusicFolder.zip has all of the projects.
@@ -7,7 +7,7 @@
 #### How to handle files and folders using List<>
 #
 #
-# MediaPlayerは、Visual Studio 2017(2010) で作成されたC#のプロジェクトで、フォルダーの中の音楽ファイルを再生するソフトです。
+# MediaPlayerは、Visual Studio 2017(2010) で作成されたC#のプロジェクトで、フォルダーの中の音楽ファイル(m4a,wav)を再生するソフトです。
 ![Class](img/App.png)
 
 ## Releases -> TAG01 ->Assets -> PlayMusicFolder.zip にプロジェクトの全てがあります。
