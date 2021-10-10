@@ -1,0 +1,43 @@
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.exe
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.pdb
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.Form1.resources
+C:\Users\kibun\Documents\Visual Studio 2010\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.csprojAssemblyReference.cache
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.Form1.resources
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.csproj.GenerateResource.cache
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.exe
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.pdb
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\kibun\GitHub\PlayMusicFolder\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.csprojAssemblyReference.cache
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.Form1.resources
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.csproj.GenerateResource.cache
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.exe
+C:\Users\kibun\GitHub\MediaPlayer\MediaPlayer\MediaPlayer\obj\x86\Debug\MediaPlayer.pdb
